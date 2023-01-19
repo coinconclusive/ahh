@@ -1,0 +1,16 @@
+{
+  "name": "ahh",
+  "version": "0.1.0",
+  "description": "Annie's Hyptertext Hyperlinker",
+  "bin": "cli.js",
+  "author": "Anne Chadeeva",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/marked": "^4.0.8",
+    "@types/node": "^18.11.18"
+  },
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "marked": "^4.2.12"
+  }
+}
