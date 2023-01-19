@@ -1,9 +1,11 @@
 {
-  "name": "ahh",
+  "name": "@waffle-annie/ahh",
   "version": "0.1.0",
   "description": "Annie's Hyptertext Hyperlinker",
   "bin": "cli.js",
   "author": "Anne Chadeeva",
+  "homepage": "https://github.com/waffle-annie/ahh",
+  "repository": "https://github.com/waffle-annie/ahh",
   "license": "MIT",
   "devDependencies": {
     "@types/marked": "^4.0.8",
